@@ -1,4 +1,4 @@
-## Contributors list 📝
+## Contributor
 
 | Name | Quote | Username |
 |:------:|:--------:|:---------:|
